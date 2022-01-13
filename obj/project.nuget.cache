@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8bQAkdWB5TGidv4hanoKmYrVkq5n8k5VLr7AElah3BbmvuY6eK1RLFYYiesaQe4a0Xr/5d+c0IcqXctUtNr46Q==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\FSharp\\OneTimePad\\OneTimePad.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matthew Doig\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
